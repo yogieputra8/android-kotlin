@@ -1,5 +1,5 @@
 ## Description
-Simple Calculator Demo using Kotlin
+Simple JokesApp Demo using Kotlin
 
 ## Screenshot
 <p align="left">
